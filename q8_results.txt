@@ -1,0 +1,11 @@
+Best learning rate: 0.03
+Final canonical test accuracy: 89.7300%
+Final canonical test cross-entropy: 0.3670
+Base train loss: [1.4087, 0.6944, 0.5102, 0.4367, 0.3941]
+Base val loss: [1.4111, 0.7011, 0.5182, 0.4447, 0.4003]
+Three-run mean: [1.4099, 0.6926, 0.5111, 0.4364, 0.3943]
+Three-run std: [0.007, 0.0017, 0.0008, 0.0003, 0.0004]
+Validation losses lr=0.001: [2.2974, 2.2933, 2.2897, 2.2853, 2.2801]
+Validation losses lr=0.003: [2.2904, 2.275, 2.2515, 2.211, 2.1417]
+Validation losses lr=0.01: [2.2415, 1.948, 1.4016, 1.0311, 0.8196]
+Validation losses lr=0.03: [1.4111, 0.7011, 0.5182, 0.4447, 0.4003]
